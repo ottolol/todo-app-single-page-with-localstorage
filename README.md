@@ -1,4 +1,4 @@
-# ToDo лист с сохранением данных в localstorage
+# Todo list с сохранением данных в localstorage
 
 ## Project setup
 ```
