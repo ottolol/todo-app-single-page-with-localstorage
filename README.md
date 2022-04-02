@@ -1,4 +1,4 @@
-# todo-app-single-page-with-localstorage
+# ToDo лист с сохранением данных в localstorage
 
 ## Project setup
 ```
